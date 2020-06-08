@@ -6,6 +6,7 @@ class Solution:
           count = count + 1
     return count
 
+
 def execute():
      J = "aA"
      S = "AAaBCc"
